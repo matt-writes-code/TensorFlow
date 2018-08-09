@@ -9,4 +9,4 @@
 [Machine Learning Algorithms: Which one to Choose for Your Problem](https://blog.statsbot.co/machine-learning-algorithms-183cc73197c)  
 [An Introduction to Implementing Neural Networks using TensorFlow](https://www.analyticsvidhya.com/blog/2016/10/an-introduction-to-implementing-neural-networks-using-tensorflow/)  
 [The mostly complete chart of Neural Networks, explained](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)  
-![alt text](https://raw.githubusercontent.com/mayojich/TensorFlow/master/src/Chart%20of%20Neural%20Networks.png "Neural Networks")
+<center><img src="https://raw.githubusercontent.com/mayojich/TensorFlow/master/src/Chart%20of%20Neural%20Networks.png" width="650" height="1000" /></center>
